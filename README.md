@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Santiago (@dasco144)
 - 👀 I’m interested in Angular, Typescript, C#, dotnet
-- 🌱 I’m currently learning Azure, Azure Devops
+- 🌱 I’m currently learning Azure, Azure Devops, VueJS
 - 💞️ I’m looking to collaborate on Angular/Typescript projects
 - 📫 How to reach me: danielsantiago@outlook.com
 
